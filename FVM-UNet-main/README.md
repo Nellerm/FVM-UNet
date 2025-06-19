@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/979750976.svg)](https://doi.org/10.5281/zenodo.15361952)
+
 # Enhancing Medical Image Segmentation with FVM-UNet: A Hybrid CNN-SSM Approach
 This is the official code repository for "Enhancing Medical Image Segmentation with FVM-UNet: A Hybrid CNN-SSM Approach".
 
